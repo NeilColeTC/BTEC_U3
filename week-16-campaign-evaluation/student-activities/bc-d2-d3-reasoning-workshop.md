@@ -1,37 +1,25 @@
-# BC.D2 / BC.D3 Reasoning Workshop
+# BC.D2 / BC.D3 Formative Workshop
 
-**Formative reasoning framework — not a completed assessed response.**
+## Part A — BC.D2: evaluate the plan and use against requirements
 
-## Part A — Evaluating a plan
+Use a neutral fictional campaign and apply:
 
-A fictional campaign plan selected an appropriate platform and clear target audience but used a broad objective with no measurable target. The publishing schedule was realistic and the risk policy was detailed. During implementation, the team struggled to judge whether the campaign had achieved its main objective.
+**requirement → evidence → comparison → judgement → significance → limitation → recommendation**
 
-Evaluate the plan's fitness for purpose.
+Consider strengths and weaknesses in planning, implementation, audience fit, metrics, community management and optimisation. Reach a balanced conclusion about fitness for purpose and effectiveness against business requirements.
 
-Consider:
+## Part B — BC.D3: professional-behaviour evidence audit
 
-- which planning decisions were strong;
-- which weakness had the greatest consequence;
-- how implementation evidence changes your judgement of the original plan;
-- what limitation remains;
-- what recommendation follows.
+For a neutral campaign process, identify what authentic evidence could demonstrate:
 
-## Part B — Evaluating implementation
+| Behaviour | Possible authentic evidence type | Why it demonstrates the behaviour |
+|---|---|---|
+| Individual responsibility | | |
+| Creativity | | |
+| Effective self-management | | |
+| Professional decision making | | |
+| Response to feedback/issues | | |
 
-A fictional campaign increased visibility substantially, but the intended-action rate remained below target. Audience evidence showed a partial match with the intended audience. A later CTA optimisation improved the action rate, although the revised post had a shorter observation period.
+## Important
 
-Evaluate campaign effectiveness.
-
-Consider:
-
-- evidence supporting success;
-- evidence challenging success;
-- significance of the target shortfall;
-- what the optimisation evidence contributes;
-- why the shorter observation period matters;
-- an appropriate overall judgement;
-- the highest-priority recommendation.
-
-## Reasoning structure
-
-**criterion → evidence → comparison → judgement → significance → limitation → recommendation**
+BC.D3 is not achieved by writing “I was responsible and creative”. The behaviour should be demonstrated by traceable evidence from the campaign process. Do not invent evidence retrospectively.

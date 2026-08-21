@@ -2,63 +2,38 @@
 
 ## Criteria progression
 
-**BC.D2:** evaluate the campaign plan against business requirements and justify its fitness for purpose.  
-**BC.D3:** evaluate the implemented campaign using accumulated evidence, including performance data, optimisation, relevant legal/ethical implications and professional behaviours, leading to justified recommendations.
+**BC.D2:** evaluate the plan and use of social media in a business against business requirements.  
+**BC.D3:** demonstrate individual responsibility, creativity and effective self-management in planning and using social media in a business context.
 
-## Core checks
+## BC.D2 checks
 
-By the end of Week 16, learners should be able to:
+- [ ] evaluate against explicit business requirements;
+- [ ] use planning, implementation, analytics and optimisation evidence;
+- [ ] identify supporting and contradictory evidence;
+- [ ] explain significance;
+- [ ] identify important limitations;
+- [ ] reach balanced judgements;
+- [ ] make evidence-based recommendations.
 
-- [ ] distinguish description, analysis and evaluation;
-- [ ] identify explicit evaluation criteria/questions;
-- [ ] trace major judgements to evidence;
-- [ ] evaluate plan coverage of business requirements;
-- [ ] evaluate objectives and success criteria;
-- [ ] evaluate target-audience planning;
-- [ ] evaluate platform/content/publishing decisions;
-- [ ] evaluate policy/risk/resource planning where relevant;
-- [ ] use review/refinement and implementation evidence to judge the original plan;
-- [ ] evaluate campaign performance against baseline/targets;
-- [ ] use individual-content analytics appropriately;
-- [ ] evaluate intended-versus-actual audience evidence;
-- [ ] evaluate community-management outcomes;
-- [ ] evaluate deviations from the plan;
-- [ ] evaluate optimisation decisions and outcomes;
-- [ ] identify contradictory/mixed evidence;
-- [ ] evaluate relevant legal/ethical implications;
-- [ ] evaluate professional behaviours and consequences;
-- [ ] identify important data/evidence limitations;
-- [ ] explain significance to the business/audience/objective;
-- [ ] reach balanced overall judgements;
-- [ ] make evidence-based, prioritised recommendations;
-- [ ] state how future recommendation success could be measured.
+## BC.D3 checks
+
+- [ ] evidence independent ownership/responsibility;
+- [ ] evidence appropriate creativity in campaign decisions/content/problem solving;
+- [ ] evidence effective self-management and organisation;
+- [ ] evidence professional communication/conduct;
+- [ ] evidence response to feedback, issues and campaign data;
+- [ ] cross-reference authentic logs, versions, decisions or implementation records;
+- [ ] avoid unsupported retrospective claims about behaviours.
 
 ## Common misconceptions
 
-- [ ] “Evaluation means describing everything I did.”
-- [ ] “A list of strengths and weaknesses is automatically distinction-level evaluation.”
-- [ ] “The biggest metric proves the campaign was successful.”
-- [ ] “Every objective must have the same overall judgement.”
-- [ ] “A deviation from the plan is automatically a failure.”
-- [ ] “I should hide contradictory evidence.”
-- [ ] “Legal and ethical evaluation means listing laws.”
-- [ ] “Professional behaviour means saying I behaved professionally.”
-- [ ] “Recommendations can be generic ideas unrelated to evidence.”
-- [ ] “I should invent a missing target now so I can evaluate against it.”
-
-## Evidence sources
-
-Use requirements analysis, campaign plan, review/refinement records, implementation/deviation logs, community-management evidence, DojoLearn analytics, audience analysis, optimisation evidence and stated limitations.
+- [ ] “BC.D3 is the final campaign evaluation.”
+- [ ] “Saying I was creative proves creativity.”
+- [ ] “More content automatically proves responsibility.”
+- [ ] “BC.D2 evaluation means listing strengths and weaknesses.”
+- [ ] “Contradictory evidence should be hidden.”
+- [ ] “Missing historical evidence can be recreated from memory.”
 
 ## Week 17 handover
 
-Before final completion, learners should have:
-
-1. plan-evaluation evidence for BC.D2;
-2. campaign-evaluation evidence for BC.D3;
-3. traceable evidence references;
-4. balanced judgements;
-5. legal/ethical/professional implications where relevant;
-6. prioritised recommendations;
-7. identified limitations/gaps;
-8. no retrospectively invented evidence.
+Learners should have a traceable BC.D2 evaluation and a cross-referenced BC.D3 behaviour-evidence set ready for final QA.
