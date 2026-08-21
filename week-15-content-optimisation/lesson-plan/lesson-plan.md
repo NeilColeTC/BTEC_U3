@@ -1,84 +1,29 @@
 # Week 15 Lesson Plan — Content Optimisation
 
 **Duration:** 3 hours  
-**Learning Aim:** C  
-**Specification:** C2/C4  
-**Criteria preparation:** C.M3
+**Specification:** C2/C4/C5  
+**Criteria preparation:** C.M3 plus BC.D3 process evidence
 
-## Learning outcomes
+## Optimisation cycle
 
-Learners will use campaign analytics to plan, implement and evaluate controlled improvements to their live DojoLearn campaign.
+**evidence → problem/opportunity → hypothesis → controlled change → implement → measure → compare → judgement**
 
 ## Lesson sequence
 
-### 1. Retrieval and analytics handover — 15 minutes
+1. Analytics handover — 15 min.
+2. Evidence-led optimisation — 20 min.
+3. Choose optimisation priority — 20 min.
+4. Hypothesis/controlled change — 25 min.
+5. Preserve before state — 15 min.
+6. Break — 10 min.
+7. DojoLearn optimisation workshop — 55 min.
+8. Compare/evaluate change — 20 min.
+9. C.M3 reasoning and exit — 15 min.
 
-Retrieve high/low performers, intended/actual audience findings, baseline/targets, analytics limitations, correlation/causation and Week 14 optimisation questions.
+## C.M3
 
-Learners select evidence that identifies a genuine performance problem or opportunity.
+Show how campaign data informed optimisation of content, format and/or features and analyse the effect where evidence permits.
 
-### 2. Optimisation is evidence-led — 20 minutes
+## BC.D3 evidence opportunity
 
-Contrast:
-
-- arbitrary change: “I changed the design because I preferred it”;
-- evidence-led optimisation: “Metric/comparison X identified issue Y, therefore I changed Z to test whether it improves outcome A.”
-
-Introduce the optimisation cycle:
-
-**evidence → problem/opportunity → hypothesis → controlled change → implement → measure → compare → judgement**.
-
-### 3. Choosing what to optimise — 20 minutes
-
-Consider content/message, format, CTA, timing/frequency, visibility technique, platform emphasis or other available campaign features. Rank opportunities by relevance to objectives, strength of evidence, likely impact, feasibility and measurability.
-
-### 4. Hypothesis and controlled change — 25 minutes
-
-Learners write a testable statement:
-
-**Because [evidence], changing [variable] from [before] to [after] may improve [relevant measure/outcome] because [reason].**
-
-Discuss why changing several major variables simultaneously weakens attribution.
-
-### 5. Before-state evidence — 15 minutes
-
-Before making changes, preserve original content/settings/metrics and define the comparison measure and observation period/stage where possible.
-
-### Break — 10 minutes
-
-### 6. DojoLearn optimisation workshop — 55 minutes
-
-Learners implement justified changes, publish/use revised content or features as appropriate, maintain the implementation log and capture post-change evidence as the simulation permits.
-
-### 7. Compare and evaluate — 20 minutes
-
-Use:
-
-**change → before evidence → after evidence → comparison → interpretation → limitation → decision**.
-
-Valid decisions include retain, refine further, revert, or insufficient evidence yet.
-
-### 8. C.M3 reasoning workshop and exit — 15 minutes
-
-Learners explain how campaign data influenced changes and what evidence suggests about the effectiveness of those changes. Prepare evidence for Week 16 evaluation.
-
-## Adaptive teaching
-
-**Support:** optimisation matrix, hypothesis stem, one-variable change prompt, before/after table and decision options.  
-**Stretch:** confounding variables, unequal exposure, regression to the mean, cross-platform comparability, trade-offs between metrics and opportunity cost.
-
-## English, maths, EDI and employability
-
-**English:** precise hypotheses, evidence-led justification and qualified evaluation.  
-**Maths:** before/after differences, rates and percentage change where valid.  
-**EDI:** check that optimisation does not improve one metric by reducing accessibility or excluding parts of the intended audience.  
-**Employability:** iterative improvement, A/B-style reasoning, analytics-informed decision-making, change control and performance reporting.
-
-## Teacher reflection
-
-- Does each optimisation start from evidence?
-- Is the changed variable clear?
-- Has the original state been preserved?
-- Are comparisons fair enough to support the conclusion?
-- Can learners accept “insufficient evidence” rather than invent success?
-- Does the work provide meaningful C.M3 evidence?
+Independent identification of an issue, creative problem solving, organised before/after evidence and self-managed iteration can contribute strong authentic evidence of responsibility, creativity and self-management.

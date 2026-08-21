@@ -1,66 +1,27 @@
-# Week 17 — Assessment Completion and Evidence Review Checks
+# Week 17 — Final Assessment Completion Checks
 
-## Assignment 2 criteria
+## Criterion audit
 
-Learners audit evidence against:
+- [ ] B.P3 plan evidence located.
+- [ ] B.P4 review-with-others/improvement evidence located.
+- [ ] B.M2 justification evidence located.
+- [ ] C.P5 implementation/content evidence located.
+- [ ] C.P6 usage/interaction data review evidence located.
+- [ ] C.M3 optimisation evidence located.
+- [ ] BC.D2 evaluation against business requirements located.
+- [ ] BC.D3 responsibility/creativity/self-management evidence cross-referenced.
 
-- B.P3
-- B.P4
-- B.M2
-- C.P5
-- C.P6
-- C.M3
-- BC.D2
-- BC.D3
+## Quality
 
-## Completion checks
+- [ ] evidence is relevant, authentic, contextualised, legible and traceable;
+- [ ] identifiers/dates/metrics are consistent;
+- [ ] calculations have been rechecked;
+- [ ] before/after optimisation evidence is preserved;
+- [ ] no unavailable data has been replaced with invented values/zero;
+- [ ] no historical action/reason/result has been fabricated;
+- [ ] final versions/links/files work;
+- [ ] assessed judgements remain learner-owned.
 
-By final submission, learners should have:
+## Assessor-readability test
 
-- [ ] mapped each criterion to evidence;
-- [ ] checked relevance of evidence;
-- [ ] checked authenticity;
-- [ ] added context/annotation where genuinely needed;
-- [ ] checked screenshots for legibility;
-- [ ] removed/avoided unnecessary duplication;
-- [ ] cross-referenced related evidence;
-- [ ] checked identifier/date/metric consistency;
-- [ ] preserved planning/review evidence;
-- [ ] preserved implementation/deviation evidence;
-- [ ] preserved community-management evidence where relevant;
-- [ ] preserved analytics evidence;
-- [ ] preserved optimisation before/after evidence;
-- [ ] checked BC.D2 plan evaluation traceability;
-- [ ] checked BC.D3 campaign evaluation traceability;
-- [ ] checked legal/ethical/professional evidence where relevant;
-- [ ] checked recommendations link to evaluation findings;
-- [ ] rechecked calculations and metric definitions;
-- [ ] identified genuine evidence limitations;
-- [ ] avoided retrospective invention;
-- [ ] checked final files/links/versions;
-- [ ] proofread the submission;
-- [ ] completed required submission/declaration steps;
-- [ ] retained independent ownership of assessed judgements.
-
-## Common final-week risks
-
-- [ ] treating RAG status as a predicted grade;
-- [ ] adding large quantities of duplicate screenshots;
-- [ ] assuming an assessor knows what an image demonstrates;
-- [ ] broken links or inaccessible evidence;
-- [ ] inconsistent content/evidence IDs;
-- [ ] inconsistent targets or metric definitions;
-- [ ] replacing missing values with zero;
-- [ ] losing the original state after optimisation;
-- [ ] hiding evidence that challenges the final evaluation;
-- [ ] retrospectively inventing evidence;
-- [ ] teacher/peer editing becoming assessed authorship;
-- [ ] submitting an obsolete file version.
-
-## Final assessor-readability test
-
-Can a reader independently trace:
-
-**requirement → plan → review → implementation → performance → optimisation → evaluation → recommendation?**
-
-If not, improve organisation/cross-referencing of genuine evidence before submission.
+Can a reader independently trace the campaign from requirement through plan/review/implementation/data/optimisation to BC.D2 evaluation, while also locating authentic BC.D3 professional-behaviour evidence?
